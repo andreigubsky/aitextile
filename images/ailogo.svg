@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Helvetica-Bold CY (Rus by me)">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="L" horiz-adv-x="556" d="M73.0015 0l0 715.999 95.0003 0 0 -631.998 351.997 0 0 -84.0009 -446.997 0z"/>
+   <glyph unicode="I" horiz-adv-x="277" d="M93.0004 0l0 715.999 95.0003 0 0 -715.999 -95.0003 0z"/>
+   <glyph unicode="T" horiz-adv-x="610" d="M259.002 0l0 631.998 -236.004 0 0 84.0009 567.002 0 0 -84.0009 -235.998 0 0 -631.998 -95.0003 0z"/>
+   <glyph unicode="E" horiz-adv-x="667" d="M79.0012 0l0 715.999 516.999 0 0 -84.0009 -421.999 0 0 -219.999 395 0 0 -84.0009 -395 0 0 -243.998 438.998 0 0 -84.0009 -533.998 0z"/>
+   <glyph unicode="X" horiz-adv-x="667" d="M4.33122 0l276.67 371.502 -243.666 344.498 112.831 0 130.498 -183.164c27.167,-38.0035 46.003,-67.0019 56.8339,-87.1693 16.1676,24.9986 35.1666,51.6656 57.0024,79.8326l142.998 190.501 103.837 0 -248.666 -340.335 267.665 -375.664 -116.336 0 -180.664 255.334c-10.3309,14.4992 -20.1674,28.9984 -29.3354,43.3346 -15.9991,-24.0043 -27.3299,-40.8348 -34.3295,-50.3343l-181.501 -248.334 -113.836 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Helvetica-Bold CY (Rus by me)";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#434242}
+    .fil1 {fill:#EF7F1A}
+    .fnt0 {font-weight:normal;font-size:1780.1px;font-family:'Helvetica-Bold CY (Rus by me)'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1948359145808">
+   <g transform="matrix(1 0 0 1 -10041 10639.3)">
+    <text x="10500" y="14850"  class="fil0 fnt0">T</text>
+    <text x="12824" y="14850"  class="fil0 fnt0">E</text>
+    <text x="15248" y="14850"  class="fil0 fnt0">X</text>
+    <text x="17671" y="14850"  class="fil0 fnt0">T</text>
+    <text x="19995" y="14850"  class="fil0 fnt0">I</text>
+    <text x="21726" y="14850"  class="fil0 fnt0">L</text>
+    <text x="23953" y="14850"  class="fil0 fnt0">E</text>
+   </g>
+   <path class="fil0" d="M20464 21830l20 -12665 -4195 2c33,1428 -4,2850 6,4269 10,1261 694,1884 1208,2969 400,845 2548,4966 2961,5425z"/>
+   <path class="fil0" d="M16085 22750c-178,-160 -24,14 -145,-361 -292,-415 -276,-294 -663,-648 -837,-765 -464,-846 -2460,-1893 -2968,-1556 -6451,-1434 -9298,328 -884,547 -2481,1863 -2983,2807 1303,-25 3568,148 4720,1 323,-42 2115,-1262 3191,-1581 4047,-1200 5650,486 7638,1347z"/>
+   <polygon class="fil0" points="16304,8398 20419,8409 20500,4215 16282,4211 "/>
+   <path class="fil1" d="M15940 22389c121,375 -33,201 145,361 462,380 1135,228 2072,228 750,0 1503,19 2251,-12 -163,-523 -847,-1735 -1129,-2290l-8877 -16376c-1286,2833 -5396,9979 -7108,13339 -382,749 -819,1559 -1181,2228 -415,770 -1032,927 -1446,2058 1869,-2001 4506,-3574 7560,-3602 -42,-40 -105,-151 -132,-113l-599 -480c1126,-1779 1861,-3740 2980,-5550l4044 7473 -898 -230c419,563 162,189 725,611 811,606 1289,1468 1593,2355z"/>
+  </g>
+ </g>
+</svg>
