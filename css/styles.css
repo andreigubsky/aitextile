@@ -113,13 +113,16 @@ img {
 .club-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 8px;
 }
 
 .club-list .item {
-  flex-basis: calc((100% - 24px) / 3);
+  flex-basis: calc((100% - 30px) / 4);
   border-radius: 4px;
   overflow: hidden;
+}
+.club-list .item .text, .club-list .item .availability {
+  text-align: center;
 }
 
 .club-list .title {
@@ -133,7 +136,7 @@ img {
   color: #EF7F1A;
   font-weight: 500;
   font-size: 14px;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .club-list .link:hover,
@@ -178,7 +181,7 @@ img {
 
 .social-links {
   display: flex;
-  gap: 8px;
+  gap: 2px;
 }
 
 .benefits {
@@ -208,7 +211,8 @@ img {
   cursor: pointer;
   border-radius: 8px;
   padding: 12px 24px;
-  background: #f18131;  
+  background: #f18131;
+  margin-left: 60px;
 }
 .main-page-btn:hover{
   color:#fff;
@@ -242,3 +246,11 @@ img {
 .availability{
   color:#42A852;
 }
+
+
+
+background-image: linier-gradient(
+      to bottom, 
+      rgba(0, 0, 255, 0.15),
+      rgba(0, 0, 255, 0.15) ),
+      url(https://ac.goit.global/fullstack/html-css-v2/module-4/autochecks/m04-human.jpg);
